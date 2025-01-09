@@ -5,7 +5,7 @@ const NavBar = ({ cartCount }) => {
   return (
     <nav className="bg-purple-400 text-white p-3">
       <div className="container mx-auto flex justify-between items-center">
-      <h1 className="text-2xl font-bold"> STORE</h1>
+      <h1 className="text-2xl font-bold"> Sabira Store</h1>
         <Link to="/" className="text-xl font-bold hover:text-gray-200">
           Home
         </Link>
